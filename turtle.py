@@ -1,4 +1,3 @@
-#By:Rickthor7Ganz×SvgAraAra:v
 import turtle
 import colorsys
 
