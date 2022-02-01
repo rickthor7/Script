@@ -15,7 +15,7 @@ for i in range('360'):
   t.left(2)
   t.forward(i*2)
   t.right(150)
-  for j in range (3)
+  for t in range (3)
       t.rt(2)
       t.forward(i*2)
       t.lt(150)
